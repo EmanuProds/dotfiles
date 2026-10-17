@@ -1,0 +1,37 @@
+# Ghostty configuration
+# Location: ~/.config/ghostty/config
+
+# --- Font ---
+# Variante estritamente monoespaçada da JetBrains Mono Nerd Font (NFM).
+# Escolhemos a "Mono" porque garante células perfeitamente monoespaçadas
+# para TUIs (powerline, box-drawing, half-blocks).
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 11.0
+
+# --- Theme / integração GNOME ---
+# Segue o color-scheme do sistema (prefer-dark) para as cores do terminal.
+# Sintaxe: light:theme,dark:theme (o valor "auto" NÃO é válido para `theme`).
+# Temas `accent-sync-*` em ~/.config/ghostty/themes/: base Adwaita oficial do
+# Ghostty com o background receber o tint do accent do ChromaLeon. Regravados
+# automaticamente quando a cor do sistema muda.
+theme = light:accent-sync-light,dark:accent-sync-dark
+
+# Segue o tema do sistema (adw-gtk3-dark) para as janelas.
+window-theme = system
+
+# --- Cursor ---
+# Bloco em vez de barra/linha. Sem piscada, para ficar estável na leitura.
+# `no-cursor` é obrigatório: a shell integration do Ghostty força a barra no
+# prompt, ignorando o cursor-style acima.
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# --- Appearance GTK ---
+# Aba no topo, estilo achatado, como no GNOME Console.
+gtk-tabs-location = top
+gtk-toolbar-style = flat
+
+# --- Comportamento padrão ---
+# Janelas abrem no diretório de trabalho anterior (padrão GNOME)
+window-inherit-working-directory = true
