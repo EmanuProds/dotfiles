@@ -7,7 +7,7 @@
 - **Code comments**: pt-BR — explain _why_, not _what_.
 - **UI shown to human clients**: pt-BR (labels, messages, tooltips, validations).
 - **Internal technical docs** (ADRs, dev READMEs, docs/): English preferred; pt-BR accepted for BR-only teams.
-- **Commits / PRs / issues**: English, conventional commits (`feat(ui):`, `fix(ci):`, `refactor(core):`).
+- **Commits**: pt-BR and **title only** — a single line, no body (`fix(script): corrige flatpaks e ~/.config`). **PRs / issues**: English, conventional.
 - **Generated `.md` files**: always English — except files under project `/docs` and plan/migration docs, which MAY be pt-BR. Skills, agents, subagents, and opencode internal files MUST be English.
 
 > Rule of thumb: machine-read artifact → English; BR human-read artifact → pt-BR.
