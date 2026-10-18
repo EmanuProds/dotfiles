@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Monitor do sistema
+Comment=Keep an eye on system resources
+Type=Application
+Exec=resources
+Terminal=false
+Categories=System;
+Keywords=System;Resources;Recursos;Monitor;Processos;Uso;Tarefas;Gerenciador;CPU;RAM;Memória;GPU;Bateria;
+Icon=org.gnome.SystemMonitor
+StartupNotify=true
+X-Purism-FormFactor=Workstation;Mobile;
