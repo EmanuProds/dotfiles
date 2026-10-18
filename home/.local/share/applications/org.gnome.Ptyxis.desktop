@@ -1,0 +1,28 @@
+[Desktop Entry]
+# Override local do ptyxis (rpm ptyxis-50.1) só para esconder o app da grade.
+#
+# Por que não basta colocar o ptyxis em "excluded-apps" da pasta Sistema:
+# excluded-apps NÃO oculta o app da grade — apenas o retira da pasta. Como o
+# ptyxis não está na lista "apps" de nenhuma pasta, ele volta para a grade
+# principal e continua visível. Medido nesta máquina.
+#
+# Por que não editar /usr/share/applications/org.gnome.Ptyxis.desktop: esse
+# arquivo é do rpm e o NoDisplay se perde a cada atualização do pacote.
+#
+# O override em ~/.local/share/applications tem precedência sobre o do rpm
+# (mesmo appID, diretório do usuário vem antes) e sobrevive a updates.
+# Os campos de Exec/Icon/Categories/DBusActivatable são mantidos para o
+# ptyxis continuar funcionando como terminal padrão e pelo handlr do GNOME.
+Type=Application
+Name=Terminal
+GenericName=Terminal
+Comment=A container-oriented terminal for GNOME
+Exec=ptyxis
+Icon=org.gnome.Ptyxis
+Terminal=false
+Categories=GNOME;GTK;System;TerminalEmulator;
+Keywords=terminal;prompt;ptyxis;shell;command;commandline;cmd;cli;console;container;podman;toolbox;distrobox;
+DBusActivatable=true
+StartupNotify=true
+NoDisplay=true
+X-KDE-AuthorizeAction=shell_access
