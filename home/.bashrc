@@ -8,6 +8,17 @@ if [ -x "$HOME/.local/bin/mise" ]; then
     eval "$("$HOME/.local/bin/mise" activate bash)"
 fi
 
+# Go: GOPATH/GOMODCACHE em ~/.go (e não no padrão ~/go).
+# Fica ANTES do return interativo para valer em shells não-interativos
+# (bash -c, scripts, ssh, LLMs/opencode).
+export GOPATH="$HOME/.go"
+export GOMODCACHE="$GOPATH/pkg/mod"
+export BASH_ENV="$HOME/.bashrc"
+case ":$PATH:" in
+    *":$GOPATH/bin:"*) ;;
+    *) export PATH="$GOPATH/bin:$PATH" ;;
+esac
+
 # Se não for interativo, para aqui.
 # A ativação do mise fica ACIMA deste return de propósito: `mise activate bash`
 # exporta o PATH (shims + bins das tools) na hora, sem depender do prompt. Shell
