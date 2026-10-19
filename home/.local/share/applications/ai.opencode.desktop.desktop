@@ -8,3 +8,4 @@ StartupWMClass=ai.opencode.desktop
 NoDisplay=false
 Comment=Open source AI coding agent
 Categories=Development;
+MimeType=x-scheme-handler/opencode;
