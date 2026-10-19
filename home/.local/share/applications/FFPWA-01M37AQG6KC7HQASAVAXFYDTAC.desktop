@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Google Meet
+Comment=
+Keywords=;
+Categories=GTK;;
+Icon=FFPWA-01M37AQG6KC7HQASAVAXFYDTAC
+Exec=/usr/bin/firefoxpwa site launch 01M37AQG6KC7HQASAVAXFYDTAC --protocol %u
+Actions=
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M37AQG6KC7HQASAVAXFYDTAC

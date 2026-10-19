@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Reddit
+Categories=GTK;;
+Icon=reddit-icon
+Exec=/usr/bin/firefoxpwa site launch 01M3A0DMJVCHQKTST36QMF3NKG --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M3A0DMJVCHQKTST36QMF3NKG
+Name[pt]=Reddit
+Name[pt_BR]=Reddit
+Name[pt_BR.UTF-8]=Reddit
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

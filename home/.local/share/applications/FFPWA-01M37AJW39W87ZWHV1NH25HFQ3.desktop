@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Google Planilhas
+Categories=GTK;;
+Icon=google-sheets
+Exec=/usr/bin/firefoxpwa site launch 01M37AJW39W87ZWHV1NH25HFQ3 --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M37AJW39W87ZWHV1NH25HFQ3
+Name[pt]=Google Planilhas
+Name[pt_BR]=Google Planilhas
+Name[pt_BR.UTF-8]=Google Planilhas
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

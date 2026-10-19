@@ -11,7 +11,8 @@ dotfiles/
 │   ├── .bashrc               # mise activate + starship
 │   ├── .shell_aliases
 │   ├── gdm/watermark.png
-│   └── .config/              # ghostty, zed, gamemode, topgrade, watermark
+│   ├── .config/              # ghostty, zed, gamemode, topgrade, watermark
+│   └── .local/share/         # applications (webapps PWA), icons, themes
 ├── dconf/
 │   └── gnome-settings.ini    # filtered GNOME dump (no secrets, no machine state)
 ├── skills/                   # 185 skills → ~/.agents/skills
@@ -25,6 +26,23 @@ dotfiles/
     ├── plugins/              # memory-store.ts (SQLite)
     └── tests/
 ```
+
+## Webapps ("WebApps" folder)
+
+`home/.local/share/applications/FFPWA-*.desktop` are the launchers of the
+Firefox/Zen PWA webapps (PWAsForFirefox extension, `firefoxpwa`). Icons live
+in `home/.local/share/icons/hicolor/*/apps/FFPWA-*.png`; the ones pointing at
+MoreWaita names (telegram, whatsapp, google-sheets/docs, proton-mail) resolve
+through the system theme.
+
+The **"WebApps"** folder of the GNOME overview (app-folder) and the launcher
+order inside it live in `dconf/gnome-settings.ini`
+(`org/gnome/desktop/app-folders/folders/WebApps`). The dock lives in
+`org/gnome/shell/favorite-apps`.
+
+> Each webapp has a site ID bound to the **browser profile**: on another
+> machine the launcher shows up, but `firefoxpwa site launch <id>` fails until
+> the site is reinstalled through Firefox/Zen.
 
 ## Using on Fedora
 

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Google Keep
+Categories=GTK;;
+Icon=google-keep-icon
+Exec=/usr/bin/firefoxpwa site launch 01M37APCBSNM1TCF3EHXB4X3CX --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M37APCBSNM1TCF3EHXB4X3CX
+Name[pt]=Google Keep
+Name[pt_BR]=Google Keep
+Name[pt_BR.UTF-8]=Google Keep
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

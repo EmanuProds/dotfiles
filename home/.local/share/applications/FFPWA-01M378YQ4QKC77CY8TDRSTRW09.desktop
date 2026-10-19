@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=OmniRoute
+Comment=OmniRoute 是一个面向多提供者 LLM 的 AI 网关。一个端点连接您所有的 AI 提供者。
+Keywords=;
+Categories=GTK;Development;Utility;
+Icon=FFPWA-01M378YQ4QKC77CY8TDRSTRW09
+Exec=/usr/bin/firefoxpwa site launch 01M378YQ4QKC77CY8TDRSTRW09 --protocol %u
+Actions=
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M378YQ4QKC77CY8TDRSTRW09

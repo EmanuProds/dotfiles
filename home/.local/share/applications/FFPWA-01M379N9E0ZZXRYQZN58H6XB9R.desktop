@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=WhatsApp Business
+Comment=Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.
+Categories=GTK;;
+Icon=whatsapp-business
+Exec=/usr/bin/firefoxpwa site launch 01M379N9E0ZZXRYQZN58H6XB9R --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M379N9E0ZZXRYQZN58H6XB9R
+Name[pt]=WhatsApp Business
+Name[pt_BR]=WhatsApp Business
+Name[pt_BR.UTF-8]=WhatsApp Business
+Comment[pt]=Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.
+Comment[pt_BR]=Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.
+Comment[pt_BR.UTF-8]=Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

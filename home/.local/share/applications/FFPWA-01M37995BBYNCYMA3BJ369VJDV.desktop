@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=LinkedIn
+Categories=GTK;;
+Icon=linkedin-app-icon
+Exec=/usr/bin/firefoxpwa site launch 01M37995BBYNCYMA3BJ369VJDV --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M37995BBYNCYMA3BJ369VJDV
+Name[pt]=LinkedIn
+Name[pt_BR]=LinkedIn
+Name[pt_BR.UTF-8]=LinkedIn
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Descomplica
+Categories=GTK;;
+Icon=descomplica
+Exec=/usr/bin/firefoxpwa site launch 01M379C8E09QKYJJ6GZYQW0WM1 --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M379C8E09QKYJJ6GZYQW0WM1
+Name[pt]=Descomplica
+Name[pt_BR]=Descomplica
+Name[pt_BR.UTF-8]=Descomplica
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

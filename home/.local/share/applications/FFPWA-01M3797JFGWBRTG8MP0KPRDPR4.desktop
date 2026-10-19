@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Google Drive
+Categories=GTK;;
+Icon=google-drive-color-icon
+Exec=/usr/bin/firefoxpwa site launch 01M3797JFGWBRTG8MP0KPRDPR4 --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M3797JFGWBRTG8MP0KPRDPR4
+Name[pt]=Google Drive
+Name[pt_BR]=Google Drive
+Name[pt_BR.UTF-8]=Google Drive
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+

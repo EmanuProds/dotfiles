@@ -1,10 +1,24 @@
-# Override de launchers do GNOME.
+# GNOME launcher overrides.
 #
-# Um .desktop em ~/.local/share/applications SOBRESCREVE o do mesmo nome em
-# /usr/share/applications, entao cada arquivo aqui tem que manter o appID exato
-# do pacote que ele substitui — é por ele que extensões e integrações acham o app.
+# A .desktop file in ~/.local/share/applications OVERRIDES the one with the
+# same name in /usr/share/applications, so every file here must keep the exact
+# appID of the package it replaces — extensions and integrations locate the
+# app through it.
 #
-# net.nokyan.Resources.Devel — "Resources" (COPR atim/resources) renomeado para
-#   "Monitor do sistema" com o ícone do GNOME. Mantém o appID do pacote para não
-#   quebrar a extensão; o launcher original em /usr/share fica com NoDisplay=true
-#   (feito pela fase 11 do fedoraPI.sh) para não aparecerem os dois no menu.
+# net.nokyan.Resources.Devel — "Resources" (COPR atim/resources) renamed to
+#   "System Monitor" with the GNOME icon. Keeps the package appID so the
+#   extension does not break; the original launcher in /usr/share gets
+#   NoDisplay=true (done by phase 11 of the fedorapi) so both do not show up
+#   in the menu.
+#
+# FFPWA-*.desktop — webapps (PWA) for Firefox/Zen via the PWAsForFirefox
+#   extension (firefoxpwa). Each file carries a site ID (e.g.
+#   01M378YQ4QKC77CY8TDRSTRW09) bound to the browser PROFILE: the ID only
+#   exists on the machine that installed the webapp. On another machine the
+#   launcher shows up, but `firefoxpwa site launch <id>` fails until the site
+#   is reinstalled through Firefox/Zen.
+#   Icons live in ~/.local/share/icons/hicolor/*/apps/FFPWA-*.png; the ones
+#   pointing at MoreWaita names (telegram, whatsapp, google-sheets/docs,
+#   proton-mail) resolve through the system theme.
+#   The "WebApps" folder of the GNOME overview (app-folder) references these
+#   files — the list is in dconf/gnome-settings.ini.

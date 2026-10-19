@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.4
+Name=Google Documentos
+Categories=GTK;;
+Icon=google-docs
+Exec=/usr/bin/firefoxpwa site launch 01M37AMJ0RZ7QB1597ZZT5YSHY --protocol %u
+MimeType=
+Terminal=false
+StartupNotify=true
+StartupWMClass=FFPWA-01M37AMJ0RZ7QB1597ZZT5YSHY
+Name[pt]=Google Documentos
+Name[pt_BR]=Google Documentos
+Name[pt_BR.UTF-8]=Google Documentos
+PrefersNonDefaultGPU=false
+Hidden=false
+NoDisplay=false
+
