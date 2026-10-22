@@ -1,5 +1,5 @@
 ---
-name: ecd-escrituracao-contabil-digital
+name: ecd-escrituracao-contabil-digital"
 description: Gera, valida e transmite a ECD (Escrituração Contábil Digital) — Diário, Razão e Balancetes — com leiaute SPED-Contábil, assinatura digital e prazo de 31/05.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

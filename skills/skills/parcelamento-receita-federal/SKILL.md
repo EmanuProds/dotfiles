@@ -1,5 +1,5 @@
 ---
-name: parcelamento-receita-federal
+name: parcelamento-receita-federal"
 description: Adere a parcelamentos federais (ordinário 60x, simplificado, programas especiais — RFB, PGFN), simula impacto, separa débitos parceláveis e gerencia mensalidades.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

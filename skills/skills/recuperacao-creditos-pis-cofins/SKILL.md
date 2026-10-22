@@ -1,5 +1,5 @@
 ---
-name: recuperacao-creditos-pis-cofins
+name: recuperacao-creditos-pis-cofins"
 description: Levanta créditos extemporâneos de PIS/COFINS (Tema 779, ICMS na base — Tema 69, monofásicos, exportação) dos últimos 5 anos, escritura, compensa via PER/DCOMP e gera memória de cálculo defensável.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

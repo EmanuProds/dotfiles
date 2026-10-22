@@ -1,5 +1,5 @@
 ---
-name: pr-review-checklist
+name: pr-review-checklist"
 description: Comprehensive pull request review checklist covering code quality, security, testing, and documentation. Use when reviewing PRs or preparing code for review.
 ---
 

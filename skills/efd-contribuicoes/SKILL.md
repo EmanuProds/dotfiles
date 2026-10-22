@@ -1,5 +1,5 @@
 ---
-name: efd-contribuicoes
+name: efd-contribuicoes"
 description: Gera EFD-Contribuições mensal (PIS, COFINS, CPRB), escriturando débitos e créditos por CST, segregando regime cumulativo/não-cumulativo e aplicando exclusão do ICMS (Tema 69).
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

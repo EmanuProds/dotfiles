@@ -1,5 +1,5 @@
 ---
-name: gnome-gtk4
+name: gnome-gtk4"
 description: Customizes native Adwaita and adw-gtk3 theme colors for a visually consistent GNOME desktop across GTK3, GTK4/libadwaita, Flatpak, and Qt5/Qt6 applications. Use when editing theme colors, changing the accent color, applying a color scheme to all apps, making Flatpak apps follow the host theme, or matching Qt apps to the GNOME look.
 ---
 

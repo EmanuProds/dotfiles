@@ -1,5 +1,5 @@
 ---
-name: calculo-pis-cofins-nao-cumulativo
+name: calculo-pis-cofins-nao-cumulativo"
 description: Apura PIS (1,65%) e COFINS (7,6%) não-cumulativos com créditos sobre insumos (conceito Tema 779 STJ), exporta tratamento de monofásicos, ICMS Tema 69, e identifica oportunidades de recuperação.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

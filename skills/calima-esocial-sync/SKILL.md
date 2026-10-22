@@ -1,5 +1,5 @@
 ---
-name: calima-esocial-sync
+name: calima-esocial-sync"
 description: Reconcile Calima with the eSocial portal — import XML events, read the Monitor de Eventos, and diagnose why a payroll produces no events. Use when asked about pendência de evento, evento não gerado, sincronizar eSocial, importar XML, or why the folha exists but the S-1200 never reaches the portal. Read-only by design; generating and transmitting are gated.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

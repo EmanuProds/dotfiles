@@ -1,5 +1,5 @@
 ---
-name: malha-fina-pj-diagnostico
+name: malha-fina-pj-diagnostico"
 description: Diagnostica intimações da malha PJ (Termo de Intimação Fiscal, Comunicado de Inconsistência), identifica divergências entre SPEDs e DCTFWeb, prepara resposta ou retificação.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

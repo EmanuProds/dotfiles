@@ -1,5 +1,5 @@
 ---
-name: docs-generation
+name: docs-generation"
 description: Generates and maintains documentation including API docs, READMEs, architecture decision records, and changelogs. Use when creating or updating project documentation.
 ---
 

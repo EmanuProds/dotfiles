@@ -1,5 +1,5 @@
 ---
-name: rescisao-clt-calculo
+name: rescisao-clt-calculo"
 description: Calcula verbas rescisórias por motivo (sem justa causa, justa causa, pedido demissão, acordo, fim contrato, aposentadoria, falecimento), gera TRCT e prepara GRRF/eSocial.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

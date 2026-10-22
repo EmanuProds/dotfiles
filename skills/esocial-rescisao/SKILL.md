@@ -1,5 +1,5 @@
 ---
-name: esocial-rescisao
+name: esocial-rescisao"
 description: Executa o desligamento de empregado no eSocial com S-2299, calcula verbas rescisórias por motivo, gera GRRF/FGTS, comunica seguro-desemprego e respeita prazos do art. 477 da CLT.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

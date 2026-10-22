@@ -1,5 +1,5 @@
 ---
-name: resposta-fiscalizacao-intimacao
+name: resposta-fiscalizacao-intimacao"
 description: Responde a fiscalização federal, estadual e municipal — TIF, MPF, intimações, autos de infração — com prazo, fundamentação legal, anexos organizados e estratégia de defesa.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

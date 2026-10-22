@@ -1,5 +1,5 @@
 ---
-name: test-generation
+name: test-generation"
 description: Generates unit, integration, and e2e tests following best practices. Use when adding test coverage, creating test files, or improving existing tests.
 ---
 

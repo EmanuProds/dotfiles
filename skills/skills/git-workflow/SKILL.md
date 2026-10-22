@@ -1,5 +1,5 @@
 ---
-name: git-workflow
+name: git-workflow"
 description: Git workflow automation including conventional commits, branch management, PR creation, and release tagging. Use when working with git repositories for commit, push, PR, or release tasks.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: irpf-investimentos-bolsa
+name: irpf-investimentos-bolsa"
 description: Apura IR sobre operações na B3 — swing trade, day trade, FIIs, ETFs, opções, futuros — com compensação de prejuízos, isenção R$ 20.000 e DARF mensal cód 6015.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

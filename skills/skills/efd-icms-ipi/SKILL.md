@@ -1,5 +1,5 @@
 ---
-name: efd-icms-ipi
+name: efd-icms-ipi"
 description: Gera, valida e transmite a EFD ICMS/IPI mensal — escrituração de NFs de entrada/saída, apuração de ICMS próprio, ICMS-ST, IPI e DIFAL — com cruzamento de C100/C170/E110.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

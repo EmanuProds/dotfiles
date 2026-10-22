@@ -1,5 +1,5 @@
 ---
-name: calculo-irrf-folha
+name: calculo-irrf-folha"
 description: Calcula IRRF na folha de pagamento e em pagamentos a pessoas físicas (RPA, autônomos, aluguel, pró-labore) aplicando tabela vigente, dependentes, INSS deduzido e regime de caixa.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

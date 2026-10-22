@@ -1,5 +1,5 @@
 ---
-name: apuracao-simples-nacional
+name: apuracao-simples-nacional"
 description: Apura o DAS mensal de empresas do Simples Nacional aplicando a fórmula da alíquota efetiva, segregando receitas por anexo e tratando ICMS-ST, ISS retido, sublimite estadual e fator R.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

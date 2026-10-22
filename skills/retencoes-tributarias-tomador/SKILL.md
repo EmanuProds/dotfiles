@@ -1,5 +1,5 @@
 ---
-name: retencoes-tributarias-tomador
+name: retencoes-tributarias-tomador"
 description: Identifica quando o tomador deve reter IR, CSLL, PIS, COFINS, INSS e ISS sobre serviços contratados de PJ ou PF, gera DARF/GPS e arquiva comprovantes para o prestador compensar.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

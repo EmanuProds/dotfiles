@@ -1,5 +1,5 @@
 ---
-name: calima-register
+name: calima-register"
 description: Index and dispatch for registering a company and its workers in Calima ERP Contábil. Use when asked to cadastrar a empresa, responsável, or funcionários/trabalhadores, or to continue a partially finished Calima registration. States the required order (responsável → empresa → funcionário), routes each step to its leaf skill, and lists the prerequisites that must exist before any cadastro will save.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

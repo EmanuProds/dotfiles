@@ -1,5 +1,5 @@
 ---
-name: ativo-imobilizado-depreciacao
+name: ativo-imobilizado-depreciacao"
 description: Controla ativo imobilizado (CPC 27), aplica taxas fiscais e contábeis de depreciação, faz teste de impairment, segrega valor residual e amortiza intangíveis (CPC 4).
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

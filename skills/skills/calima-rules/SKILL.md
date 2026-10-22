@@ -1,5 +1,5 @@
 ---
-name: calima-rules
+name: calima-rules"
 description: Hard rules and silent failure modes of the Calima ERP Contábil web system — what breaks, what it looks like when it does, and the fix. Use whenever an action on Calima appears to do nothing, a save seems to fail, a field rejects its value, a dropdown will not open, or a result must be confirmed before reporting it. Also holds the authorisation ceiling (L0–L5) and the standing 2FA instruction.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

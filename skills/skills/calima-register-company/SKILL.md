@@ -1,5 +1,5 @@
 ---
-name: calima-register-company
+name: calima-register-company"
 description: Register a company in Calima ERP Contábil — módulo Principal › Manutenção › Empresa — including its tabs, address, phones and tax vigência. Use when asked to cadastrar a empresa, when an empresa will not save, or when a validation message asks for a principal phone, a principal address or a tax vigência. Documents the four gates that block the save, the digit-only masks, and the eSocial classification rule for Simples Nacional.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

@@ -1,5 +1,5 @@
 ---
-name: build-modern-redux-apps/modern-redux
+name: build-modern-redux-apps/modern-redux"
 description: >
   Use this when setting up a new Redux Toolkit app or modernizing an existing
   React + Redux codebase. Covers configureStore, Provider wiring, typed hooks,

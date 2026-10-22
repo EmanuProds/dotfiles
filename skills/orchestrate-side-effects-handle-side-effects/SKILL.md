@@ -1,5 +1,5 @@
 ---
-name: orchestrate-side-effects/handle-side-effects
+name: orchestrate-side-effects/handle-side-effects"
 description: >
   Use this when choosing between RTK Query, createAsyncThunk, handwritten
   thunks, and createListenerMiddleware. Covers imperative versus reactive

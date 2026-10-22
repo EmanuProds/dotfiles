@@ -1,5 +1,5 @@
 ---
-name: apuracao-lucro-presumido
+name: apuracao-lucro-presumido"
 description: Apura IRPJ, CSLL, PIS, COFINS trimestrais no Lucro Presumido aplicando os percentuais de presunção corretos por atividade, com adicional de IR e tratamento de receitas financeiras.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

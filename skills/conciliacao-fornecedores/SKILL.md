@@ -1,5 +1,5 @@
 ---
-name: conciliacao-fornecedores
+name: conciliacao-fornecedores"
 description: Concilia razão de fornecedores (contas a pagar) com NFs recebidas, boletos, comprovantes de pagamento e descontos, evitando duplicidade, baixas erradas e passivo oculto.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

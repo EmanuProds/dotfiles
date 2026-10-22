@@ -1,5 +1,5 @@
 ---
-name: encerramento-empresa-baixa
+name: encerramento-empresa-baixa"
 description: Conduz baixa de empresa via REDESIM (baixa fácil para regulares; "baixa com débito" desde Lei 11.598/2007), com encerramento contábil, distribuição de acervo e cancelamento de inscrições.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

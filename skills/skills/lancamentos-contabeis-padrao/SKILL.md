@@ -1,5 +1,5 @@
 ---
-name: lancamentos-contabeis-padrao
+name: lancamentos-contabeis-padrao"
 description: Catálogo de lançamentos padrão para operações cotidianas (vendas, compras, folha, tributos, ativo imobilizado, empréstimos), com débitos e créditos prontos e fundamentação em CPCs.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

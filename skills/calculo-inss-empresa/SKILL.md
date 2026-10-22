@@ -1,5 +1,5 @@
 ---
-name: calculo-inss-empresa
+name: calculo-inss-empresa"
 description: Calcula contribuição previdenciária patronal (CPP, RAT/FAP, terceiros), aplica desoneração da folha vigente, separa atividades concomitantes e gera GFIP/DCTFWeb.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

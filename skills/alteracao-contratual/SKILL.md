@@ -1,5 +1,5 @@
 ---
-name: alteracao-contratual
+name: alteracao-contratual"
 description: Conduz alterações contratuais (entrada/saída de sócios, mudança de objeto/CNAE, capital social, endereço, transformação societária) com efeitos contábeis, fiscais e na Junta Comercial.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

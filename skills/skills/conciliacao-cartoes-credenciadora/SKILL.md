@@ -1,5 +1,5 @@
 ---
-name: conciliacao-cartoes-credenciadora
+name: conciliacao-cartoes-credenciadora"
 description: Concilia vendas via cartão (crédito, débito, voucher, PIX QR) com repasses da credenciadora, identifica taxas, antecipações, chargebacks e ajusta receita líquida e custo financeiro.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

@@ -1,5 +1,5 @@
 ---
-name: folha-pagamento-mensal
+name: folha-pagamento-mensal"
 description: Monta a folha de pagamento mensal CLT com salário, adicionais, INSS, IRRF, FGTS, vale-transporte e descontos, gerando holerite, DARFs e cruzando com eSocial.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

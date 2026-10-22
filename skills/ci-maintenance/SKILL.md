@@ -1,5 +1,5 @@
 ---
-name: ci-maintenance
+name: ci-maintenance"
 description: Design, implement, and audit repository CI pipelines and reusable workflow contracts against applicable fleet standards. Use for CI setup, workflow hardening, required-check coverage, or shared pipeline changes. Keep hook-only setup, isolated test diagnosis, and PR monitoring in their existing workflows.
 ---
 

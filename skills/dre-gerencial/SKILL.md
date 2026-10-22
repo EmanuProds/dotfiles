@@ -1,5 +1,5 @@
 ---
-name: dre-gerencial
+name: dre-gerencial"
 description: Monta DRE gerencial (interno, por centro de custo, por produto/cliente) com margem de contribuição, ponto de equilíbrio e comparativos vs. orçamento e período anterior.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

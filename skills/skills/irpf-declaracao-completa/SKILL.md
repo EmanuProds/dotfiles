@@ -1,5 +1,5 @@
 ---
-name: irpf-declaracao-completa
+name: irpf-declaracao-completa"
 description: Monta IRPF anual completa para PFs com múltiplas fontes — empregados, autônomos, aluguel, ganho de capital, B3, exterior — escolhendo entre Simplificada e Completa, e antecipando malha fina.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

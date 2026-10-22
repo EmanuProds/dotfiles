@@ -1,5 +1,5 @@
 ---
-name: calima-register-worker
+name: calima-register-worker"
 description: Register workers and their vínculos in Calima ERP Contábil — módulo Folha › Manutenção › Trabalhador and Vínculo. Use when asked to cadastrar funcionários, criar vínculo, register dependentes or afastamentos, or continue a payroll cadastro. Documents the four mandatory validation gates, the fields the eSocial does not need, the two-step save flow, and which fields belong to immigrant workers and must stay empty. Verified on four registrations.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

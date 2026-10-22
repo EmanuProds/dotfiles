@@ -1,5 +1,5 @@
 ---
-name: model-redux-state/build-slices-and-selectors
+name: model-redux-state/build-slices-and-selectors"
 description: >
   Use this when authoring or refactoring slices with createSlice, selectors,
   create.asyncThunk, entity adapters, or lazy reducer injection. Covers

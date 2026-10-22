@@ -1,5 +1,5 @@
 ---
-name: esocial-admissao
+name: esocial-admissao"
 description: Executa a admissão de empregado no eSocial, com S-2200 ou S-2190 (admissão preliminar), cadastros prévios, exame admissional e termos do contrato — leiaute S-1.5 vigente.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

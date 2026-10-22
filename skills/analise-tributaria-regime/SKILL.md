@@ -1,5 +1,5 @@
 ---
-name: analise-tributaria-regime
+name: analise-tributaria-regime"
 description: Compara cargas de Simples, Lucro Presumido e Lucro Real para o cliente, projetando 12 meses, considerando ICMS, ISS, PIS/COFINS, IRPJ/CSLL, INSS e produzindo recomendação fundamentada.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

@@ -1,5 +1,5 @@
 ---
-name: manage-server-data/adopt-rtk-query
+name: manage-server-data/adopt-rtk-query"
 description: >
   Use this when adding RTK Query as the default server-data and document-cache
   layer. Covers createApi, store integration, hooks, invalidation behavior,

@@ -1,5 +1,5 @@
 ---
-coordination: exempt
+coordination: exempt"
 name: cli-gh
 skill-dependencies:
   - repo-rename

@@ -1,5 +1,5 @@
 ---
-name: calculo-iss
+name: calculo-iss"
 description: Apura ISS sobre serviços, identifica o município competente conforme LC 116/2003 com alterações da LC 175/2020, trata retenção pelo tomador e aplica alíquota mínima de 2%.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

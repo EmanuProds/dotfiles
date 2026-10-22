@@ -1,5 +1,5 @@
 ---
-name: apuracao-lucro-real
+name: apuracao-lucro-real"
 description: Apura IRPJ e CSLL no Lucro Real (trimestral ou anual com estimativa), partindo do LAIR contábil, fazendo as adições e exclusões da Parte A do LALUR e controlando prejuízo fiscal e base negativa.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

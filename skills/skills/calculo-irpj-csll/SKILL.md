@@ -1,5 +1,5 @@
 ---
-name: calculo-irpj-csll
+name: calculo-irpj-csll"
 description: Centraliza decisões e cálculos de IRPJ e CSLL nos três regimes (Simples, Presumido, Real), com adicional de IR, JCP, equivalência patrimonial e prejuízo fiscal.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

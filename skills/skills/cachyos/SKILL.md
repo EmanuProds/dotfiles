@@ -1,5 +1,5 @@
 ---
-name: cachyos
+name: cachyos"
 description: Maintain and diagnose CachyOS-specific optimized repositories, kernels, chwd hardware profiles, sched-ext scheduling, and packaged system settings. Use for these components on CachyOS or an explicitly configured Arch host, not generic Arch administration or every desktop edit.
 ---
 

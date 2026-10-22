@@ -1,5 +1,5 @@
 ---
-name: fechamento-mensal
+name: fechamento-mensal"
 description: Roteiro completo de fechamento contábil mensal — provisões, depreciação, conciliações, encerramento de resultado, e geração de relatórios — em até 5 dias úteis após o mês.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

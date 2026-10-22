@@ -1,5 +1,5 @@
 ---
-name: opencode-memory
+name: opencode-memory"
 description: >
   Browse local OpenCode history: sessions, messages, plans, prompt history, and
   prior decisions. Use when the user says history, previous session, last time,

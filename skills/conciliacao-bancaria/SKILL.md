@@ -1,5 +1,5 @@
 ---
-name: conciliacao-bancaria
+name: conciliacao-bancaria"
 description: Concilia extrato bancário com razão contábil identificando depósitos, transferências, tarifas, juros, IOF, tributos e débitos não escriturados, fechando saldo com tolerância zero.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

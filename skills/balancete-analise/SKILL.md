@@ -1,5 +1,5 @@
 ---
-name: balancete-analise
+name: balancete-analise"
 description: Lê e analisa balancetes mensais identificando inconsistências (saldos invertidos, contas obsoletas, variações anormais) e construindo conclusões para o cliente.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

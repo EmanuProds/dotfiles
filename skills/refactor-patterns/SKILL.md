@@ -1,5 +1,5 @@
 ---
-name: refactor-patterns
+name: refactor-patterns"
 description: Common refactoring recipes and code transformation patterns. Use when improving code structure, reducing complexity, or modernizing legacy code.
 ---
 

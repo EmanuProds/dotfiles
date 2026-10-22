@@ -1,5 +1,5 @@
 ---
-name: ferias-13-salario
+name: ferias-13-salario"
 description: Calcula e processa férias (período aquisitivo, gozo, abono pecuniário, terço constitucional) e 13º salário (1ª e 2ª parcela), com encargos, adiantamentos e eSocial.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

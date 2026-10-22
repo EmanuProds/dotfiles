@@ -1,5 +1,5 @@
 ---
-name: omarchy
+name: omarchy"
 description: Customize and troubleshoot installed Omarchy desktops, including its Hyprland configuration, shell, themes, terminals, and commands. Use for Omarchy-owned configuration, not generic Linux or Hyprland setup, CachyOS defaults, or Omarchy source development.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: valuation-pme
+name: valuation-pme"
 description: Calcula valuation de PME por DCF, múltiplos comparáveis e patrimonial, ajusta o EBITDA com one-offs, projeta FCFF/FCFE e estrutura faixa de preço para venda ou aporte.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

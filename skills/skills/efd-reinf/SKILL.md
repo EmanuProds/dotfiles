@@ -1,5 +1,5 @@
 ---
-name: efd-reinf
+name: efd-reinf"
 description: Transmite EFD-Reinf — eventos de retenções de IRRF, CSRF, INSS sobre serviços, receitas de espetáculos e comercialização rural — alinhada com DCTFWeb e DIRF (substituída pela EFD-Reinf desde 2024).
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

@@ -1,5 +1,5 @@
 ---
-name: feature-sliced-design
+name: feature-sliced-design"
 description: >
   Official Feature-Sliced Design (FSD) v2.1 skill for applying the methodology
   to frontend projects. Use when the task involves organizing project structure

@@ -1,5 +1,5 @@
 ---
-name: session-checkpoint
+name: session-checkpoint"
 description: Save and restore OpenCode session state including context, todos, and working files. Use for checkpointing long-running tasks, switching contexts, or recovering from interruptions.
 ---
 

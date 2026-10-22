@@ -1,5 +1,5 @@
 ---
-name: managed-config-drift
+name: managed-config-drift"
 description: Audit drift between live Linux configuration, version-controlled configuration repositories, symlink farms, and packaged defaults. Use when configuration ownership is unclear, a desktop behaves differently from its repo, symlinks may be broken, generated files may be stale, or an update may have overwritten local state. Default to reporting and do not synchronize or replace files automatically.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: manage-server-data/generate-rtk-query-from-openapi
+name: manage-server-data/generate-rtk-query-from-openapi"
 description: >
   Use this when generating RTK Query endpoints from OpenAPI schemas with
   @rtk-query/codegen-openapi. Covers the empty API pattern, filterEndpoints,

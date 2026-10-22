@@ -1,5 +1,5 @@
 ---
-name: security-audit
+name: security-audit"
 description: Security vulnerability scanning and secure coding patterns. Use when reviewing code for security issues, auditing dependencies, or implementing security fixes.
 ---
 

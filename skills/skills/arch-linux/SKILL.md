@@ -1,5 +1,5 @@
 ---
-name: arch-linux
+name: arch-linux"
 description: Configure and troubleshoot installed Arch Linux systems, including package selection, configuration ownership, systemd services, and desktop integration. Use for Arch system administration outside package authoring or upgrade recovery; use CachyOS or Omarchy guidance only for their installed components.
 ---
 

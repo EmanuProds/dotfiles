@@ -1,5 +1,5 @@
 ---
-name: gera-pdf-relatorio
+name: gera-pdf-relatorio"
 description: Gera relatorios PDF a partir de template HTML com dados por empresa, em lote, usando WeasyPrint e substituicao de marcadores. Use para manuais, passo a passo por cliente, relatorios periodicos ou qualquer documento que se repete com dados diferentes. Cobre a regra de ouro do marcador={{CHAVE}}, a coluna repetida com @N, e a validacao de que nada ficou para trás.
 ---
 

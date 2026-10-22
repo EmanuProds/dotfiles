@@ -1,5 +1,5 @@
 ---
-name: revisao-fiscal-cruzamento-sped
+name: revisao-fiscal-cruzamento-sped"
 description: Cruza ECD, ECF, EFD ICMS/IPI, EFD-Contribuições, eSocial, EFD-Reinf e DCTFWeb identificando divergências antes da malha fina e construindo plano de ajuste.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

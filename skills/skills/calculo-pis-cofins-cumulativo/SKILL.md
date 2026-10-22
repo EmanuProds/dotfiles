@@ -1,5 +1,5 @@
 ---
-name: calculo-pis-cofins-cumulativo
+name: calculo-pis-cofins-cumulativo"
 description: Apura PIS (0,65%) e COFINS (3%) cumulativos para empresas no Lucro Presumido, com exclusão do ICMS da base (Tema 69 STF) e tratamento de receitas excluídas e regime monofásico.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

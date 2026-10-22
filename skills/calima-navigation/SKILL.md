@@ -1,5 +1,5 @@
 ---
-name: calima-navigation
+name: calima-navigation"
 description: Drive the Calima ERP Contábil browser UI reliably — finding routes, switching modules, opening and closing modals, filling masked fields, operating react-select dropdowns, and telling a real save from a phantom one. Use whenever a task on Calima involves moving around the screen, opening a cadastro, filling a form, or verifying that a Salvar actually persisted. Contains the traps that silently produce wrong results (stale DOM reads, the 2FA overlay, truncated dropdowns, digits-only masks).
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

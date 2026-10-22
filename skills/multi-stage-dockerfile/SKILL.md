@@ -1,5 +1,5 @@
 ---
-name: multi-stage-dockerfile
+name: multi-stage-dockerfile"
 description: 'Create optimized multi-stage Dockerfiles for any language or framework'
 ---
 

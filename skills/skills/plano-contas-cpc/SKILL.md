@@ -1,5 +1,5 @@
 ---
-name: plano-contas-cpc
+name: plano-contas-cpc"
 description: Estrutura plano de contas alinhado aos CPCs (1, 16, 27, 47, 48), com referencial fiscal da ECF/ECD e níveis 5/7 dígitos para integração com SPED.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

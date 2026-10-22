@@ -1,5 +1,5 @@
 ---
-name: esocial-afastamentos
+name: esocial-afastamentos"
 description: Registra afastamentos no eSocial (S-2230) — doença, acidente, licença-maternidade, serviço militar, etc. — com início, término e comunicação ao INSS quando devida.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

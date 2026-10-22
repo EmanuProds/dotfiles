@@ -1,5 +1,5 @@
 ---
-name: calima-esocial-s1010-rubricas
+name: calima-esocial-s1010-rubricas"
 description: Decide which rubricas in Calima must be sent to the eSocial S-1010 table, reproducing a retired system's standard. Use when migrating from another payroll system, when a payroll produces no events, or when asked which rubricas should have "Enviar ao eSocial = Sim". Carries the verified comparison of Calima's 216-rubrica Evento catalog against the 67-rubrica eContab standard, with the twelve that must be flipped.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

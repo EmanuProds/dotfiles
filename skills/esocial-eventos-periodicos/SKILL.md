@@ -1,5 +1,5 @@
 ---
-name: esocial-eventos-periodicos
+name: esocial-eventos-periodicos"
 description: Coordena envio mensal dos eventos periódicos do eSocial — S-1200 remuneração, S-1210 pagamentos, S-1280/S-1295/S-1299 fechamento — com totalização e geração de DCTFWeb.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

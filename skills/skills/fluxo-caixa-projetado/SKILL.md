@@ -1,5 +1,5 @@
 ---
-name: fluxo-caixa-projetado
+name: fluxo-caixa-projetado"
 description: Monta fluxo de caixa direto realizado e projetado (curto e médio prazo), diário/semanal/mensal, identificando déficits, excedentes e antecipação de necessidades.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

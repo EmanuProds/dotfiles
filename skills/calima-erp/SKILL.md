@@ -1,5 +1,5 @@
 ---
-name: calima-erp
+name: calima-erp"
 description: Navigate, read, and diagnose the Calima ERP Contábil web system through the browser — eSocial event monitor, company registration, worker/vínculo registration, payroll, certificates. Use when the user asks to inspect or fix Calima, troubleshoot eSocial events (S-1200, S-1210, S-1299, S-2200), diagnose why payroll generates no events, or walk through a Calima registration. Includes a supervised-write protocol and a catalog of irreversible UI actions that must never be clicked without explicit approval.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

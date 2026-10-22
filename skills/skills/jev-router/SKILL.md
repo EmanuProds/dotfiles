@@ -1,5 +1,5 @@
 ---
-name: jev-router
+name: jev-router"
 description: Uses the Jev System One model to choose which OpenCode subagent should handle an ambiguously-routed request, returning a typed choice with a calibrated confidence. Invoke when the correct subagent is not obvious from the task description, when two subagents plausibly apply, or when a previous delegation was sent to the wrong place. Skip entirely when the target is already clear.
 ---
 

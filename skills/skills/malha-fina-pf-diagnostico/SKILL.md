@@ -1,5 +1,5 @@
 ---
-name: malha-fina-pf-diagnostico
+name: malha-fina-pf-diagnostico"
 description: Diagnostica IRPF na malha fina (extrato de processamento), identifica a inconsistência (rendimento omitido, dedução indevida, ganho de capital, dependente), prepara retificadora ou defesa.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

@@ -1,5 +1,5 @@
 ---
-name: memory
+name: memory"
 description: Persistent memory across OpenCode sessions. Stores facts, decisions, and session checkpoints in SQLite so a later session can recover context the conversation no longer holds.
 ---
 

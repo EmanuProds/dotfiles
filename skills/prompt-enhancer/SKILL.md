@@ -1,5 +1,5 @@
 ---
-name: prompt-enhancer
+name: prompt-enhancer"
 description: Improves user prompts by adding context, clarifying intent, and structuring for better AI responses. Use when user requests are vague, incomplete, or could benefit from additional context.
 ---
 

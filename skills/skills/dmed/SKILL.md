@@ -1,5 +1,5 @@
 ---
-name: dmed
+name: dmed"
 description: Gera e transmite a DMED (Declaração de Serviços Médicos e de Saúde) anual com pagamentos recebidos por hospitais, clínicas, planos de saúde, médicos e operadoras, alinhada à dedução do IRPF dos pacientes.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

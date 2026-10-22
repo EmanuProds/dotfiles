@@ -1,5 +1,5 @@
 ---
-name: model-redux-state/design-state-ownership
+name: model-redux-state/design-state-ownership"
 description: >
   Use this when deciding whether data belongs in Redux, component state, router
   state, or another external source. Covers state ownership, authority

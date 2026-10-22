@@ -1,5 +1,5 @@
 ---
-name: evolve-and-diagnose-redux-apps/debug-redux-toolkit-apps
+name: evolve-and-diagnose-redux-apps/debug-redux-toolkit-apps"
 description: >
   Use this when debugging duplicate requests, stale cache behavior, broad
   subscriptions, selector churn, serializability warnings, or other Redux

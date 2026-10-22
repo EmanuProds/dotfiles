@@ -1,5 +1,5 @@
 ---
-name: agent-orchestrator
+name: agent-orchestrator"
 description: Orchestrates multi-agent workflows for complex tasks. Use when a task requires coordination between multiple specialized agents (architect, debug, code-reviewer, refactor, etc.).
 ---
 

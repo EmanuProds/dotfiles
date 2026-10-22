@@ -1,5 +1,5 @@
 ---
-name: calculo-icms-icms-st
+name: calculo-icms-icms-st"
 description: Apura ICMS próprio e ICMS-ST (substituição tributária) em operações internas e interestaduais, calcula MVA ajustada, DIFAL, antecipação tributária e aplica decisões da LC 87/96 e Convênios CONFAZ.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

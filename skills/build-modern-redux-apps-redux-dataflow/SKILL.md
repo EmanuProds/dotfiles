@@ -1,5 +1,5 @@
 ---
-name: build-modern-redux-apps/redux-dataflow
+name: build-modern-redux-apps/redux-dataflow"
 description: >
   Use this when you need the Redux event -> reducer -> selector -> render loop,
   event-style actions, reducer-owned state transitions, derived data, or a

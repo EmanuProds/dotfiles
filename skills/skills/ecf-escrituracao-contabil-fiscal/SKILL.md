@@ -1,5 +1,5 @@
 ---
-name: ecf-escrituracao-contabil-fiscal
+name: ecf-escrituracao-contabil-fiscal"
 description: Gera ECF (Escrituração Contábil Fiscal) anual com cálculo de IRPJ/CSLL no Real ou Presumido, LALUR/LACS Parte A e B, controle de prejuízo fiscal e amarração com a ECD.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

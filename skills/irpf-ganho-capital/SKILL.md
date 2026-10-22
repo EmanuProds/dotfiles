@@ -1,5 +1,5 @@
 ---
-name: irpf-ganho-capital
+name: irpf-ganho-capital"
 description: Calcula ganho de capital de imóveis, ações fora da B3 e criptomoedas, aplica isenções (único imóvel até R$ 440k, reinvestimento em 180 dias, R$ 35 mil mês cripto), gera GCAP e DARF.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

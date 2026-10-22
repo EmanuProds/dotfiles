@@ -1,5 +1,5 @@
 ---
-name: evolve-and-diagnose-redux-apps/migrate-to-modern-redux
+name: evolve-and-diagnose-redux-apps/migrate-to-modern-redux"
 description: >
   Use this when moving a legacy Redux codebase to current RTK patterns. Covers
   replacing createStore with configureStore, migrating touched reducers to

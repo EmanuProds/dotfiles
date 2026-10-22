@@ -1,5 +1,5 @@
 ---
-name: fgts-guia-recolhimento
+name: fgts-guia-recolhimento"
 description: Gera FGTS mensal (8% sobre folha) e rescisório (multa 40/20%) via Conectividade Social ou FGTS Digital, monitora calendário de saques, parcelamento e regularidade.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

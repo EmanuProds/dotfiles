@@ -1,5 +1,5 @@
 ---
-name: docker-compose-orchestration
+name: docker-compose-orchestration"
 description: Container orchestration with Docker Compose for multi-container applications, networking, volumes, and production deployment
 ---
 

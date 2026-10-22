@@ -1,5 +1,5 @@
 ---
-name: calculo-ipi
+name: calculo-ipi"
 description: Calcula IPI nas operações de saída industrial e de equiparados a industrial, aplica TIPI 2022, identifica suspensão e isenção, e gerencia o crédito presumido de exportação.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

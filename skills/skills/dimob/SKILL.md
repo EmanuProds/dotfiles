@@ -1,5 +1,5 @@
 ---
-name: dimob
+name: dimob"
 description: Gera e transmite a DIMOB (Declaração de Informações sobre Atividades Imobiliárias) anual de imobiliárias, construtoras e incorporadoras, declarando vendas, aluguéis e comissões com IRRF.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

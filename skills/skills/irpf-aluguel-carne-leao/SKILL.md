@@ -1,5 +1,5 @@
 ---
-name: irpf-aluguel-carne-leao
+name: irpf-aluguel-carne-leao"
 description: Calcula carnê-leão sobre rendimentos de PF (aluguel de PF, autônomo de PF, pensão estrangeira, ganho exterior) com tabela progressiva, deduções e DARF mensal.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

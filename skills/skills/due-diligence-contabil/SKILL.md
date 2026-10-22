@@ -1,5 +1,5 @@
 ---
-name: due-diligence-contabil
+name: due-diligence-contabil"
 description: Conduz due diligence contábil-fiscal-trabalhista pré-M&A ou pré-investimento, identifica passivos ocultos, contingências e ajustes ao EBITDA, com relatório de findings classificado por risco.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

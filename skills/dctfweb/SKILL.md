@@ -1,5 +1,5 @@
 ---
-name: dctfweb
+name: dctfweb"
 description: Confessa débitos federais (INSS, IRRF, CSRF, IRPJ, CSLL, PIS, COFINS, IPI) na DCTFWeb mensal a partir de eSocial e EFD-Reinf, gera DARF unificado e trata retificações.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

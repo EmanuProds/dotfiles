@@ -1,5 +1,5 @@
 ---
-name: conciliacao-clientes
+name: conciliacao-clientes"
 description: Concilia razão de clientes (contas a receber) com NFs emitidas, recebimentos, descontos, devoluções, e ajusta PCLD conforme CPC 47/48 e idade do recebível.
 allowed-tools: Read Grep Bash Edit Write
 user-invocable: true

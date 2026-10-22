@@ -1,5 +1,5 @@
 ---
-name: dynamic-context-pruning
+name: dynamic-context-pruning"
 description: Optimizes token usage by pruning obsolete tool outputs from conversation context. Reduces token consumption while maintaining relevant context for better performance.
 license: MIT
 compatibility: opencode

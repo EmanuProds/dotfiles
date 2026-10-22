@@ -1,5 +1,5 @@
 ---
-name: jev-guardrail
+name: jev-guardrail"
 description: Uses the Jev System One model to score the risk of a shell command or file edit before it runs, returning a calibrated probability plus a three-way gate (allow, confirm, block). Invoke when a command is plausibly destructive (recursive delete, truncate, dd, mass rewrite, unreviewed pipe to shell) and the approval gate alone cannot tell how risky it is. Never blocks on its own — the calling agent applies the gate in code.
 ---
 

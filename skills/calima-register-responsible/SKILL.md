@@ -1,5 +1,5 @@
 ---
-name: calima-register-responsible
+name: calima-register-responsible"
 description: Register the responsável — accountant, partner or administrator — in Calima ERP Contábil, module Principal › Manutenção › Responsável. Use when asked to cadastrar o responsável, o contador, the sócio or the administrador of a company. Documents the three tabs, which fields accept digits only, where the required address and phone really come from, and how the responsável becomes linked to the company.
 allowed-tools: browser Read Grep Glob Shell
 user-invocable: true

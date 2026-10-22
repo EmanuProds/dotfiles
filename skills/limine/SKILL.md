@@ -1,5 +1,5 @@
 ---
-name: limine
+name: limine"
 description: Installs, configures, and troubleshoots the Limine bootloader on Arch Linux and other Linux systems — limine.conf syntax, UEFI/BIOS deployment, boot entries for Linux/Windows, kernel cmdline, initramfs, UKI, Secure Boot enrollment, and automatic updating via hooks. Use when setting up Limine, editing limine.conf, adding boot entries, dual-booting, or debugging boot failures (Failed to open image, wrong ESP, missing config).
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: orval
+name: orval"
 description: Generate type-safe API clients, TanStack Query/SWR hooks, Zod schemas, MSW mocks, Hono server handlers, MCP servers, and SolidStart actions from OpenAPI specs using Orval. Covers all clients (React/Vue/Svelte/Solid/Angular Query, Fetch, Axios), custom HTTP mutators, authentication patterns, NDJSON streaming, programmatic API, and advanced configuration.
 ---
 
