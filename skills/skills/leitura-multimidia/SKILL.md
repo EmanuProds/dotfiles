@@ -1,6 +1,6 @@
 ---
 name: leitura-multimidia
-description: Extrai conteudo de video (frames), audio (transcricao) e imagem (OCR) para alimentar documentacao. Use quando precisar lervideo de reuniao/aula, transcrever audio, ou ler texto de PDF/imagem digitalizada. Cobre o caminho completo: descobrir trechos relevantes -> extrair -> transcrever/OCR -> consolidar em texto citavel com timestamps.
+description: "Extrai conteudo de video (frames), audio (transcricao) e imagem (OCR) para alimentar documentacao. Use quando precisar lervideo de reuniao/aula, transcrever audio, ou ler texto de PDF/imagem digitalizada. Cobre o caminho completo: descobrir trechos relevantes -> extrair -> transcrever/OCR -> consolidar em texto citavel com timestamps."
 ---
 
 # Leitura multimídia
